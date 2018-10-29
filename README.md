@@ -1,2 +1,2 @@
 # demo
-java
+这是java
